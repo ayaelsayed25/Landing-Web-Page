@@ -34,7 +34,7 @@ function showSlides(n) {
         "<button id =\"btn2\" class=\"btn\"><i class=\"material-icons\">search</i></button>" +
         "<button id =\"btn3\" class=\"btn\"><i class=\"material-icons\">favorite</i></button>" +
         "<button id =\"btn4\" class=\"btn\"><i class=\"material-icons\">network_cell</i></button></section>" +
-        "<h3>Natural Cosmitek Products</h3>" + 
+        "<h3 class = \"headthree\">Natural Cosmitek Products</h3>" + 
         "<h4 style=\"color:grey;\">Cosmetics</h4>" + "<h4 class=\"Price\">" + prices[x] + "</h4> ";
         x++;
   
