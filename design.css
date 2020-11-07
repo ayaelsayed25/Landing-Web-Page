@@ -11,11 +11,11 @@
     transition: 2s;
 
 }
-h1{
+.popular{
     float: left;
     font: 30px "Playfair Display" , serif
 }
-h3{
+.headthree{
     font: 18px Ubuntu, sans-serif;
 }
 .product img 
@@ -28,11 +28,6 @@ h3{
     display: flex;
     float : left;
     height: 430px;
-    /*width:88.9vw;
-    overflow-x: auto;
-    overflow: hidden;*/
-    /*margin-left: -0.55%;
-    margin-right: -0.55%;*/
 }
 .btn {
     border: none; 
