@@ -1,12 +1,12 @@
-var ancestor = document.getElementById("main"),
-descendents = ancestor.getElementsByTagName('div'),
-imgs = ["scrollbarImages/product10.jpg","scrollbarImages/product8.jpg",
-        "scrollbarImages/product7.jpg","scrollbarImages/product6.jpg",
-        "scrollbarImages/product5.jpg","scrollbarImages/product4.jpg",
-        "scrollbarImages/product3.jpg","scrollbarImages/product2.jpg"],
-prices = ["$915.00","$165.95","$472.00","$199.00","$199.95","$3,300.95","$78.95","$760.00"]; 
+const ancestor = document.getElementById("main"),
+    descendents = ancestor.getElementsByTagName('div'),
+    imgs = ["scrollbarImages/product10.jpg", "scrollbarImages/product8.jpg",
+        "scrollbarImages/product7.jpg", "scrollbarImages/product6.jpg",
+        "scrollbarImages/product5.jpg", "scrollbarImages/product4.jpg",
+        "scrollbarImages/product3.jpg", "scrollbarImages/product2.jpg"],
+    prices = ["$915.00", "$165.95", "$472.00", "$199.00", "$199.95", "$3,300.95", "$78.95", "$760.00"];
 
-var slideIndex = 0;
+let slideIndex = 0;
 showSlides(slideIndex);
 
 // Next/previous controls

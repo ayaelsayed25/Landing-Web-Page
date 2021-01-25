@@ -1,30 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cda88e6-d816-4c77-825f-3f7ea65c2c2e" name="Default Changelist" comment="nour&amp;nada 2nd">
+    <list default="true" id="0cda88e6-d816-4c77-825f-3f7ea65c2c2e" name="Default Changelist" comment="nour nada sarah">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carousel/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Carousel/Bothaina'sStylingSheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carousel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Carousel/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sarah/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sarah/Main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sarah/StyleSheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/all/StyleSheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sarah/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/all/all.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sarah/blog-img1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/all/latestBlogImages/blog-img1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sarah/blog-img2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/all/latestBlogImages/blog-img2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sarah/blog-img3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/all/latestBlogImages/blog-img3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sarah/member1.png" beforeDir="false" afterPath="$PROJECT_DIR$/all/latestBlogImages/member1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sarah/member2.png" beforeDir="false" afterPath="$PROJECT_DIR$/all/latestBlogImages/member2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sarah/s1.png" beforeDir="false" afterPath="$PROJECT_DIR$/all/specialTreatmentsImages/s1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sarah/s2.png" beforeDir="false" afterPath="$PROJECT_DIR$/all/specialTreatmentsImages/s2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sarah/s3.png" beforeDir="false" afterPath="$PROJECT_DIR$/all/specialTreatmentsImages/s3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sarah/s4.png" beforeDir="false" afterPath="$PROJECT_DIR$/all/specialTreatmentsImages/s4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nada/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/all/form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nada/styling.css" beforeDir="false" afterPath="$PROJECT_DIR$/all/styling.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nada/toolbarImages/england.png" beforeDir="false" afterPath="$PROJECT_DIR$/all/toolbarImages/england.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nada/toolbarImages/france.png" beforeDir="false" afterPath="$PROJECT_DIR$/all/toolbarImages/france.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nada/toolbarImages/german-flag.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/all/toolbarImages/german-flag.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nada/toolbarImages/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/all/toolbarImages/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nada/toolbarImages/menu-img1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/all/toolbarImages/menu-img1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nada/toolbarImages/menu-img2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/all/toolbarImages/menu-img2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nada/toolbarImages/product3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/all/toolbarImages/product3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nada/toolbarImages/product4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/all/toolbarImages/product4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all/StyleSheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/all/Sarah'sStyleSheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/all/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all/styling.css" beforeDir="false" afterPath="$PROJECT_DIR$/all/Nada'sStylingSheet.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,11 +45,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\sarah\OOP\WebPage-Template\Carousel" />
+      <recent name="D:\sarah\OOP\WebPage-Template\all" />
       <recent name="D:\sarah\OOP\WebPage-Template\nada\latestBlogImages" />
       <recent name="D:\sarah\OOP\WebPage-Template\nada\specialTreatmentsImages" />
       <recent name="D:\sarah\OOP\WebPage-Template\nada" />
-      <recent name="D:\sarah\OOP\WebPage-Template\radwa" />
-      <recent name="D:\sarah\OOP\WebPage-Template\nour\footerImages" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -76,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611606015871</updated>
-      <workItem from="1611606016972" duration="6366000" />
+      <workItem from="1611606016972" duration="7307000" />
     </task>
     <task id="LOCAL-00001" summary="nour&amp;nada 1st">
       <created>1611610743557</created>
@@ -92,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611611145597</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="nour nada sarah">
+      <created>1611612682991</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611612682991</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +103,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="nour&amp;nada 1st" />
     <MESSAGE value="nour&amp;nada 2nd" />
-    <option name="LAST_COMMIT_MESSAGE" value="nour&amp;nada 2nd" />
+    <MESSAGE value="nour nada sarah" />
+    <option name="LAST_COMMIT_MESSAGE" value="nour nada sarah" />
   </component>
 </project>
