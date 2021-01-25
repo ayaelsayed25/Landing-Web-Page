@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0cda88e6-d816-4c77-825f-3f7ea65c2c2e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/nada/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nada/styling.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nour/team1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nour/team2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toolbarImages/england.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toolbarImages/france.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toolbarImages/german-flag.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toolbarImages/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toolbarImages/menu-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toolbarImages/menu-img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toolbarImages/product3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toolbarImages/product4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design.css" beforeDir="false" afterPath="$PROJECT_DIR$/radwa/design.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design.html" beforeDir="false" afterPath="$PROJECT_DIR$/radwa/design.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design.js" beforeDir="false" afterPath="$PROJECT_DIR$/radwa/design.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/product10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/scrollbarImages/product10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/product2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/scrollbarImages/product2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/product3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/scrollbarImages/product3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/product4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/scrollbarImages/product4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/product5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/scrollbarImages/product5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/product6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/scrollbarImages/product6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/product7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/scrollbarImages/product7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/product8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/scrollbarImages/product8.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="nourwalid70-patch-1-1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nZmW4cNLILM0Ea7E4OB3YxppJx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\sarah\OOP\WebPage-Template\nada" />
+      <recent name="D:\sarah\OOP\WebPage-Template\nour" />
+      <recent name="D:\sarah\OOP\WebPage-Template\radwa" />
+      <recent name="D:\sarah\OOP\WebPage-Template\toolbarImages" />
+      <recent name="D:\sarah\OOP\WebPage-Template" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cda88e6-d816-4c77-825f-3f7ea65c2c2e" name="Default Changelist" comment="" />
+      <created>1611606015871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611606015871</updated>
+      <workItem from="1611606016972" duration="4671000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
