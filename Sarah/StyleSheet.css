@@ -1,0 +1,146 @@
+.latestBlog{
+    margin-left: 215px;
+    font-family: Cambria, serif;
+    font-size: 30px;
+}
+.column {
+    display: grid;
+    float: left;
+    width: 30%;
+    padding: 12px;
+}
+.space, .circle,.gg-search{
+    grid-column: 1;
+    grid-row: 1;
+}
+.space{
+    transition: 1s;
+}
+.space:hover{
+    filter: brightness(0.4) contrast(200%)
+    grayscale(50%)
+    hue-rotate(90deg)
+    opacity(25%)
+    saturate(30%)
+    sepia(60%);
+}
+.space:hover ~ .circle,.gg-search{
+    display: inline;
+}
+/*.space{*/
+/*    position: relative;*/
+/*    float: left;*/
+/*    background: gray;*/
+/*    width: 100px;*/
+/*    height: 100px;*/
+/*    bottom: 150px;*/
+/*    left: 100px;*/
+/*}*/
+/*.space:hover{*/
+/*    width: 300px;*/
+/*    transition: width 1s;*/
+/*}*/
+.gg-search{
+    display: none;
+    float: left;
+    position: relative;
+    left: 14px;
+    top: 14px;
+   color: white;
+}
+.circle{
+    display: none;
+    background: red;
+    border-radius: 50%;
+    margin-top : 70px;
+    margin-left: 125px;
+    width : 40px;
+    height: 40px;
+}
+/*.circle:hover{*/
+/*    display: block;*/
+/*}*/
+
+ /*Clear floats after image containers*/
+.row{
+    content: "";
+    clear: both;
+    display: table;
+     margin-right: 200px;
+     margin-left: 200px;
+}
+.description{
+    /*text-align: center;*/
+    padding: 20px;
+    /*float: left;*/
+
+}
+.personIcon{
+    float: left;
+    border-radius: 50%;
+    width: 30px;
+}
+.byAdminText{
+    padding-top: 6px;
+    padding-left: 4px;
+    color: #9F9680;
+    float: left;
+    font-size: 12px;
+    display: flex;
+}
+.hyper {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+.gg-calendar-dates{
+  margin-left: 4px;
+    margin-right: 4px;
+}
+.specialTreatmentsImages{
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 150px
+}
+.specialTreatmentsSingle{
+    outline: lightsteelblue solid 1px;
+    padding: 20px 20px;
+}
+.SpecialTreatments{
+    font-family: Cambria, serif;
+    font-size: 30px;
+    text-align: center;
+}
+.specialTreatmentsContent{
+margin-bottom: 60px
+}
+.smallCircle{
+    display: none;
+    background: red;
+    border-radius: 50%;
+    margin-top : 70px;
+    margin-left: 125px;
+    width : 10px;
+    height: 10px;
+}
+.gg-add{
+    float: left;
+    display: inline-block;
+    color: red;
+    margin-left: 150px;
+}
+.gg-add:hover{
+   color: black;
+    transform: rotate(360deg);
+    transition: all 0.3s ease-in-out 0s;
+}
+.SpecialTreatmentsDesc{
+    text-align: center;
+}
+.specialTreatmentsContent, .gg-add{
+    grid-column: 1;
+    grid-row: 1;
+}
