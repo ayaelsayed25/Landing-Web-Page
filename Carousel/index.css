@@ -1,0 +1,48 @@
+
+
+.testimonials-section{
+    height: 500px;
+  
+    background:url(    https://themesground.com/cosmitek/V1//images/testimonials-bg.jpg
+) no-repeat center center
+
+}
+
+.coma{ 
+    margin-top: 130px;
+}
+
+.character{
+border-radius: 50%;
+margin-top: 180px;
+margin-left: 120px;
+width: 150px;
+
+
+
+}
+
+p{
+    font-family: '	Courier New Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    margin-top: 200px;
+    margin-left: 50px;
+
+}
+.carousel-indicators {
+   
+   
+    left: 44% ;
+    top: 75%;
+}
+
+.happycustomer{
+margin-left:200px ;
+
+}
+
+a{
+    color: black;
+    font: bolder;
+}
+ 
