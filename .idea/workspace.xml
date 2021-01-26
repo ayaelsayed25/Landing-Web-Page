@@ -1,27 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cda88e6-d816-4c77-825f-3f7ea65c2c2e" name="Default Changelist" comment="radwa">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0cda88e6-d816-4c77-825f-3f7ea65c2c2e" name="Default Changelist" comment="merging scrollbar">
+      <change beforePath="$PROJECT_DIR$/Carousel/comma.png" beforeDir="false" afterPath="$PROJECT_DIR$/all/comma.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carousel/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/all/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Carousel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Carousel/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sarah/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sarah/Main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/all/Bothaina'sStylingSheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/all/Styles/Bothaina'sStylingSheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/all/Nada'sStylingSheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/all/Styles/Nada'sStylingSheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/all/Sarah'sStyleSheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/all/Styles/Sarah'sStyleSheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/all/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/all/Styles/all.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/all/comma.png" beforeDir="false" afterPath="$PROJECT_DIR$/Carousel/comma.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/all/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/all/form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/radwa/design.css" beforeDir="false" afterPath="$PROJECT_DIR$/all/Styles/design.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/radwa/design.html" beforeDir="false" afterPath="$PROJECT_DIR$/radwa/design.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/radwa/design.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/radwa/scrollbarImages/product10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/all/scrollBarImages/product10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/radwa/scrollbarImages/product2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/all/scrollBarImages/product2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/radwa/scrollbarImages/product3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/all/scrollBarImages/product3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/radwa/scrollbarImages/product4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/all/scrollBarImages/product4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/radwa/scrollbarImages/product5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/all/scrollBarImages/product5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/radwa/scrollbarImages/product6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/all/scrollBarImages/product6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/radwa/scrollbarImages/product7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/all/scrollBarImages/product7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/radwa/scrollbarImages/product8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/all/scrollBarImages/product8.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,10 +42,10 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\sarah\OOP\WebPage-Template\all" />
       <recent name="D:\sarah\OOP\WebPage-Template\Carousel" />
       <recent name="D:\sarah\OOP\WebPage-Template\all\src" />
       <recent name="D:\sarah\OOP\WebPage-Template\all\Styles" />
-      <recent name="D:\sarah\OOP\WebPage-Template\all" />
       <recent name="D:\sarah\OOP\WebPage-Template\nada\latestBlogImages" />
     </key>
   </component>
@@ -77,7 +61,7 @@
       <workItem from="1611687187664" duration="14000" />
       <workItem from="1611687202532" duration="7000" />
       <workItem from="1611689990361" duration="230000" />
-      <workItem from="1611690468245" duration="955000" />
+      <workItem from="1611690468245" duration="1288000" />
     </task>
     <task id="LOCAL-00001" summary="nour&amp;nada 1st">
       <created>1611610743557</created>
@@ -107,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611613915669</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="merging scrollbar">
+      <created>1611693276290</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611693276290</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +121,7 @@
     <MESSAGE value="nour&amp;nada 2nd" />
     <MESSAGE value="nour nada sarah" />
     <MESSAGE value="radwa" />
-    <option name="LAST_COMMIT_MESSAGE" value="radwa" />
+    <MESSAGE value="merging scrollbar" />
+    <option name="LAST_COMMIT_MESSAGE" value="merging scrollbar" />
   </component>
 </project>
