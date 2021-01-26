@@ -1,3 +1,8 @@
+.box{
+    display: block;
+    float: left;
+    margin-left: 30px;
+}
 .product
 {
     border: solid;
@@ -11,11 +16,11 @@
     transition: 2s;
 
 }
-.popular{
+h1{
     float: left;
     font: 30px "Playfair Display" , serif
 }
-.headthree{
+h3{
     font: 18px Ubuntu, sans-serif;
 }
 .product img 
@@ -28,6 +33,11 @@
     display: flex;
     float : left;
     height: 430px;
+    /*width:88.9vw;
+    overflow-x: auto;
+    overflow: hidden;*/
+    /*margin-left: -0.55%;
+    margin-right: -0.55%;*/
 }
 .btn {
     border: none; 
@@ -35,7 +45,7 @@
     background-color: #ADEBE8; 
     padding: 12px 12px; 
     font-size: 16px; 
-    margin: 0;
+    margin: 0%;
     width:50px;height:50px;
     cursor: pointer;
     transition: .5s ease;
