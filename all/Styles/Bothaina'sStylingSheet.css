@@ -3,8 +3,7 @@
 .testimonials-section{
     height: 500px;
   
-    background:url(    https://themesground.com/cosmitek/V1//images/testimonials-bg.jpg
-) no-repeat center center
+    background:url(https://themesground.com/cosmitek/V1//images/testimonials-bg.jpg) no-repeat center center
 
 }
 
@@ -43,6 +42,5 @@ margin-left:200px ;
 
 a{
     color: black;
-    font: bolder;
 }
  
