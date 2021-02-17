@@ -3,6 +3,7 @@ body {
 }
 
 .latestBlog{
+    margin-top: 30px;
     margin-left: 215px;
     font-family: Cambria, serif;
     font-size: 30px;
@@ -112,6 +113,7 @@ body {
     padding: 20px 20px;
 }
 .SpecialTreatments{
+    margin-top: 50px;
     font-family: Cambria, serif;
     font-size: 30px;
     text-align: center;

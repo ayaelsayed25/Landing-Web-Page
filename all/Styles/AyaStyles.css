@@ -13,8 +13,7 @@ body {
 #newsLetter {
     position: relative;
     background-color:rgb(246, 198, 208);
-    width: 99.95vw;
-    margin-left : -0.55%;
+    width: 100%;
     margin-top: -0.5%;
     height:500px;
 }

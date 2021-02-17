@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cda88e6-d816-4c77-825f-3f7ea65c2c2e" name="Default Changelist" comment="Last edits">
+    <list default="true" id="0cda88e6-d816-4c77-825f-3f7ea65c2c2e" name="Default Changelist" comment="Final">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all/Styles/AyaStyles.css" beforeDir="false" afterPath="$PROJECT_DIR$/all/Styles/AyaStyles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/all/Styles/Sarah'sStyleSheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/all/Styles/Sarah'sStyleSheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/all/Styles/design.css" beforeDir="false" afterPath="$PROJECT_DIR$/all/Styles/design.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/all/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/all/form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nour/team2.css" beforeDir="false" afterPath="$PROJECT_DIR$/nour/team2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,7 @@
       <workItem from="1611687202532" duration="7000" />
       <workItem from="1611689990361" duration="230000" />
       <workItem from="1611690468245" duration="2146000" />
-      <workItem from="1613577338691" duration="3865000" />
+      <workItem from="1613577338691" duration="4492000" />
     </task>
     <task id="LOCAL-00001" summary="nour&amp;nada 1st">
       <created>1611610743557</created>
@@ -121,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613579137408</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Final">
+      <created>1613581424923</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1613581424923</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +153,7 @@
     <MESSAGE value="needs to be fixed" />
     <MESSAGE value="Carousel" />
     <MESSAGE value="Last edits" />
-    <option name="LAST_COMMIT_MESSAGE" value="Last edits" />
+    <MESSAGE value="Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final" />
   </component>
 </project>
