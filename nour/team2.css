@@ -18,24 +18,23 @@ body{
 }
 
 .sora1,.sora2,.sora3{
-     font-family:monospace;
+    font-family: "Playfair Display", serif;
      padding: 20px;
-     font-weight: bold;
      font-size:xx-large;
      color: #001D68;
      text-align: center;
      position: absolute;
 }
 .sora1{
-  top: 130%;
+  top: 127%;
   text-align: left; 
 }
 .sora2{
-  top: 118%;
+  top: 115%;
   left: 42%;
 }
 .sora3{
-  top: 104%;
+  top: 101%;
   right: 10px;
   text-align: right;
 }
@@ -153,4 +152,9 @@ display: block;
 }
 .super1 .address{
  margin-left: 20px;
+}
+.super a {
+    color: darkslategrey;
+    font-family: Arial, sans-serif;
+    font-size: medium;
 }
