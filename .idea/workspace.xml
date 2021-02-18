@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0cda88e6-d816-4c77-825f-3f7ea65c2c2e" name="Default Changelist" comment="Final">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all/Styles/AyaStyles.css" beforeDir="false" afterPath="$PROJECT_DIR$/all/Styles/AyaStyles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all/Styles/Sarah'sStyleSheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/all/Styles/Sarah'sStyleSheet.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="nourwalid70-patch-1-1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nZmW4cNLILM0Ea7E4OB3YxppJx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\sarah\OOP\WebPage-Template\Carousel" />
+      <recent name="D:\sarah\OOP\WebPage-Template\all" />
+      <recent name="D:\sarah\OOP\WebPage-Template\all\src" />
+      <recent name="D:\sarah\OOP\WebPage-Template\all\Styles" />
+      <recent name="D:\sarah\OOP\WebPage-Template\nada\latestBlogImages" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cda88e6-d816-4c77-825f-3f7ea65c2c2e" name="Default Changelist" comment="" />
+      <created>1611606015871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611606015871</updated>
+      <workItem from="1611606016972" duration="7630000" />
+      <workItem from="1611687187664" duration="14000" />
+      <workItem from="1611687202532" duration="7000" />
+      <workItem from="1611689990361" duration="230000" />
+      <workItem from="1611690468245" duration="2146000" />
+      <workItem from="1613577338691" duration="4492000" />
+    </task>
+    <task id="LOCAL-00001" summary="nour&amp;nada 1st">
+      <created>1611610743557</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611610743557</updated>
+    </task>
+    <task id="LOCAL-00002" summary="nour&amp;nada 2nd">
+      <created>1611611145597</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611611145597</updated>
+    </task>
+    <task id="LOCAL-00003" summary="nour nada sarah">
+      <created>1611612682991</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611612682991</updated>
+    </task>
+    <task id="LOCAL-00004" summary="radwa">
+      <created>1611613915669</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611613915669</updated>
+    </task>
+    <task id="LOCAL-00005" summary="merging scrollbar">
+      <created>1611693276290</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611693276290</updated>
+    </task>
+    <task id="LOCAL-00006" summary="needs to be fixed">
+      <created>1611693778804</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611693778804</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Carousel">
+      <created>1613577947389</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1613577947389</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Last edits">
+      <created>1613579137408</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1613579137408</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Final">
+      <created>1613581424923</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1613581424923</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nour&amp;nada 1st" />
+    <MESSAGE value="nour&amp;nada 2nd" />
+    <MESSAGE value="nour nada sarah" />
+    <MESSAGE value="radwa" />
+    <MESSAGE value="merging scrollbar" />
+    <MESSAGE value="needs to be fixed" />
+    <MESSAGE value="Carousel" />
+    <MESSAGE value="Last edits" />
+    <MESSAGE value="Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final" />
+  </component>
+</project>

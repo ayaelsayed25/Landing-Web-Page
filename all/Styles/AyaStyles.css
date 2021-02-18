@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+/*News Letter*/
+html {
+    scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+#newsLetter {
+    position: relative;
+    background-color:rgb(246, 198, 208);
+    width: 100%;
+    margin-top: -0.5%;
+    height:500px;
+}
+
+#newsLetter > #newsImage > img {
+    position: relative;
+    width: 33%;
+    left: 0%;
+    top: 100%;
+    margin-top: -1.2%;
+}
+
+
+#newsLetter > #texts {
+    position: relative;
+    padding-left :10%;
+    padding-top: 2%;
+   
+}
+#texts > h1 {
+    font-size: 4.7em;
+    margin-bottom: 0;
+    font-weight: 50;
+    font-family:'Playfair Display', serif;
+}
+#texts > h2 {
+    color: rgba(0, 0, 0, 0.664);
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 200;
+    font-size: 1.25em;
+    position: absolute;
+    margin-top: 10%;    
+}
+#subscription{
+    display: inline;
+    position: absolute;
+    top: 60%;
+    left: 10%;
+}
+#subscription > input {
+    position: relative;
+    width: 550px;
+    height: 65px;
+    border: none;
+    outline: none;
+    color: rgba(41, 39, 39, 0.664);
+    font-size: 17px;
+    text-align: start;
+    padding-left: 20px;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+#subscription > button {
+    position: relative;
+    background-color:rgb(238, 82, 82);
+    width:170px;
+    height: 66px;
+    color: white;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    left: -4px;
+    top: 2px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 600;
+}
+
+
+/*Home styling*/
+ #home { 
+     overflow: hidden;
+ }
+#arrows {
+    display: grid;
+    grid-auto-flow: column;
+    column-gap: 1320px;
+    position: absolute;
+    top: 370px;
+    left: 70px;
+}
+#arrows button {
+    font-size: 15px;
+    background-color: white;
+    outline: none;
+    border:1px transparent;    
+    height:40px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:40px;
+    cursor: pointer;
+    display: none;
+}
+@keyframes button1 {
+    0%{
+        margin-left: -200px;
+    }
+    100%{
+      margin-left: 0px;
+    }
+}
+@keyframes button2 {
+    0% {
+        margin-left: 200px;
+    }
+    100%{
+      margin-left: 0px;
+    }
+}
+#homeImages {
+    display: flex;
+    width: 99.95vw;
+    margin-left : -0.55%;
+    margin-top: -0.55%;
+    height: 665px;
+    overflow: hidden;
+}
+.slide {
+    position: relative;
+    transition: 2s;
+}
+.slide img {
+    width: 100vw;
+    height: 665px;
+}
+
+#homeContent {
+    position: absolute;
+    top: 15%;
+    left: 12%;
+}
+
+#homeContent > h1{
+    margin-left: 0;
+    font-size: 60px;
+    animation: text1 2s 1;
+    font-family: 'Playfair Display', serif;
+    font-weight: 100;
+    transition: 2s;
+}
+#homeContent > h2 {
+    margin-left: 0;
+    margin-top: 350px;
+    animation: text2 2s 1;
+    font-size: 20px;
+    color:  rgba(41, 39, 39, 0.664);
+    font-weight: 500;
+    font-family:  'Ubuntu', sans-serif;
+    transition: 2s;
+}
+#homeContent > #discountClick {
+    position: absolute;
+    width: 400px;
+    top: 90%;
+    animation: text3 2s 1;
+    transition: 2s;
+}
+@keyframes text1 {
+    0%{
+      margin-left: -950px;
+    }
+}
+@keyframes text2 {
+    0%{
+        margin-top: 350px;
+        margin-left: -950px;
+    }
+}
+@keyframes text3 {
+    0%{
+        top: 150%;
+    }
+}
+#discountClick > button {
+    color: rgb(238, 82, 82);
+    border: none;
+    background-color: transparent;
+    font-size: 20px;
+    font-weight: 600;
+    font-family:  'Ubuntu', sans-serif;
+    cursor: pointer;
+    height: 80px;
+} 
+
+#discountClick > i {
+    font-size: 35px;
+    color: rgb(238, 82, 82);
+    cursor: pointer;
+    transform : rotate(0deg);
+    animation: 0.4s;
+
+}
+
+@keyframes plus0 {
+    0%{
+        transform : rotate(0deg);
+    }
+    100% {
+        transform: rotate(180deg);
+    }
+}
+
+@keyframes plus90 {
+    0%{
+        transform : rotate(180deg);
+    }
+    100% {
+        transform: rotate(0deg);
+    }
+}
