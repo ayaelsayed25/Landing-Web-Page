@@ -1,5 +1,5 @@
 # Landing-Web-Page
 A landing page for cosmetics company.
-![](screenshots1/capture.png)
-![](screenshots1/capture2.png)
-![](screenshots1/capture3.png)
+![](screenshots1/Capture.PNG)
+![](screenshots1/Capture2.PNG)
+![](screenshots1/Capture3.PNG)
